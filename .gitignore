@@ -37,3 +37,12 @@ framebuffer.tga
 /cmake-build-debug/build.ninja
 /cmake-build-debug/cmake_install.cmake
 /cmake-build-debug/CMakeCache.txt
+/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-79dbd93f6e608463ba5c.json
+/cmake-build-debug/.cmake/api/v1/reply/index-2024-10-21T09-18-08-0280.json
+/cmake-build-debug/.cmake/api/v1/reply/target-tinyrenderer-Debug-c6062279d08e05c437a3.json
+/cmake-build-debug/CMakeFiles/tinyrenderer.dir/main.cpp.o
+/cmake-build-debug/CMakeFiles/tinyrenderer.dir/tgaimage.cpp.o
+/cmake-build-debug/.ninja_deps
+/cmake-build-debug/.ninja_log
+/cmake-build-debug/output.tga
+/cmake-build-debug/tinyrenderer
